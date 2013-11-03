@@ -1,0 +1,20 @@
+{
+  "name": "myself",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LunaPg/myself",
+  "main": "index.html",
+  "authors": [
+    "diane agnan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "2.5.0"
+  }
+}
